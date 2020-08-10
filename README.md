@@ -14,3 +14,9 @@
 | Wireless/BT         | Intel 9560NGW -> Change to DW1820A (Pin masking required) |
 
 
+### Pin masking
+Pin masking is commonly required for Lenovo machines. Use a small strip of sticky tape to block the pins as demonstrated below:
+
+![Picture 1](DW1820A_Cover_pins.jpg)
+
+![Picture 2](DW1820A_pins_masking2.png)
